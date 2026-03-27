@@ -58,5 +58,5 @@ For inquiries, business proposals, or demonstrations, please contact the develop
 ---
 
 <div align="center">
-  <i>Developed meticulously by Furkan ÖZTÜRK / Nart Kanşat @ SyncCase Company.</i>
+  <i>STOCKCASE / STOCKGOLD @2024 </i>
 </div>
