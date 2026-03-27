@@ -55,7 +55,15 @@ This repository serves as a showcase of the **StockGold** application. The sourc
 
 For inquiries, business proposals, or demonstrations, please contact the development team.
 
----
+## 📸 Screenshots
+<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/cc63fe19-4b42-45da-9211-4c2f88efca1b" />
+<img width="1280" height="720" alt="2" src="https://github.com/user-attachments/assets/4b1e6592-b698-4502-96c8-c5e5aa59fc5a" />
+<img width="1280" height="720" alt="3" src="https://github.com/user-attachments/assets/f4c712f0-1d49-4721-98a3-07cd0459ee02" />
+<img width="1280" height="720" alt="4" src="https://github.com/user-attachments/assets/b0140716-cb3e-4e61-b0b8-7448025e164f" />
+<img width="1280" height="720" alt="5" src="https://github.com/user-attachments/assets/10211518-7be3-4c1b-bb46-59fb06c2ce9d" />
+<img width="1280" height="720" alt="6" src="https://github.com/user-attachments/assets/b1c26d91-9961-4d1f-b5f4-426d75e8eaeb" />
+<img width="1280" height="720" alt="7" src="https://github.com/user-attachments/assets/f21f84c4-2c56-4d15-9f9a-8a735c80ab7d" />
+
 
 <div align="center">
   <i>STOCKCASE / STOCKGOLD @2024 </i>
