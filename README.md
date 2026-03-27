@@ -1,5 +1,5 @@
 <div align="center">
-<img width="720" height="720" alt="stockcase_logo_black" src="https://github.com/user-attachments/assets/1d2d9dd6-e28f-4a91-ba99-640552820f70" />
+<img width="120" height="120" alt="stockcase_logo_black" src="https://github.com/user-attachments/assets/1d2d9dd6-e28f-4a91-ba99-640552820f70" />
 
   # StockGold
 
