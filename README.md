@@ -68,3 +68,4 @@ For inquiries, business proposals, or demonstrations, please contact the develop
 <div align="center">
   <i>STOCKCASE / STOCKGOLD @2024 </i>
 </div>
+
